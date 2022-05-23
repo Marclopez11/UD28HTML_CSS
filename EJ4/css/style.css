@@ -1,0 +1,41 @@
+
+.bg-h1{
+    background-color: darkgoldenrod;
+    padding-left: 5px;
+
+}
+.bg{
+    background-color: #fffac5;
+    margin-top: -22px;
+    padding-left: 5px;
+    font-size: 15px;
+
+
+}
+.h2{
+    padding-top: 26px;
+    font-style: italic;
+    font-size: 30px;
+    font-weight: 600;
+    color: rgb(79, 117, 241);
+    padding-left: 5px;
+
+
+}
+.titulos{
+    font-weight: 600;
+    color: rgb(79, 117, 241);
+    font-size: 15px;
+
+}
+
+.margin{
+    margin-left: 20px;
+}
+
+span{
+    color: rgba(109, 139, 240, 0.602);
+
+
+}
+

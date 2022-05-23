@@ -1,0 +1,17 @@
+body{
+    background-color:#a37200;
+    color: blue;
+
+}
+
+h1,h2{
+    font-family: 'Courgette', cursive;
+    font-style: italic;
+    font-size: 90px;
+
+
+}
+p{
+    font-size: 40px;
+
+}
