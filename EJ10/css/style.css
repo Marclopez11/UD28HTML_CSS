@@ -5,7 +5,7 @@ h1 {
   color: #5f8f11;
   text-align: center;
   font-family: "Lucida Sans Unicode", sans-serif;
-  background-image: url(/EJ10/foto/panoramica.jpeg);
+  background-image: url(../foto/panoramica.jpeg);
   background-position: top center;
   background-repeat: no-repeat;
   display: block;
